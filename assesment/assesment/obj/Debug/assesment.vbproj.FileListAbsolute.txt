@@ -1,0 +1,15 @@
+C:\Users\yoga1\source\repos\assesment\assesment\bin\Debug\assesment.exe.config
+C:\Users\yoga1\source\repos\assesment\assesment\bin\Debug\assesment.exe
+C:\Users\yoga1\source\repos\assesment\assesment\bin\Debug\assesment.pdb
+C:\Users\yoga1\source\repos\assesment\assesment\bin\Debug\assesment.xml
+C:\Users\yoga1\source\repos\assesment\assesment\obj\Debug\assesment.vbprojAssemblyReference.cache
+C:\Users\yoga1\source\repos\assesment\assesment\obj\Debug\assesment.Resources.resources
+C:\Users\yoga1\source\repos\assesment\assesment\obj\Debug\assesment.vbproj.GenerateResource.cache
+C:\Users\yoga1\source\repos\assesment\assesment\obj\Debug\assesment.exe
+C:\Users\yoga1\source\repos\assesment\assesment\obj\Debug\assesment.xml
+C:\Users\yoga1\source\repos\assesment\assesment\obj\Debug\assesment.pdb
+C:\Users\yoga1\source\repos\assesment\assesment\obj\Debug\assesment.Form2.resources
+C:\Users\yoga1\source\repos\assesment\assesment\obj\Debug\assesment.Form3.resources
+C:\Users\yoga1\source\repos\assesment\assesment\obj\Debug\assesment.Assesment.resources
+C:\Users\yoga1\source\repos\assesment\assesment\obj\Debug\assesment.Form4.resources
+C:\Users\yoga1\source\repos\assesment\assesment\obj\Debug\assesment.Form5.resources
