@@ -1,0 +1,11 @@
+C:\Users\yoga1\source\repos\klinik\klinik\bin\Debug\klinik.exe.config
+C:\Users\yoga1\source\repos\klinik\klinik\bin\Debug\klinik.exe
+C:\Users\yoga1\source\repos\klinik\klinik\bin\Debug\klinik.pdb
+C:\Users\yoga1\source\repos\klinik\klinik\bin\Debug\klinik.xml
+C:\Users\yoga1\source\repos\klinik\klinik\obj\Debug\klinik.vbprojAssemblyReference.cache
+C:\Users\yoga1\source\repos\klinik\klinik\obj\Debug\klinik.Form1.resources
+C:\Users\yoga1\source\repos\klinik\klinik\obj\Debug\klinik.Resources.resources
+C:\Users\yoga1\source\repos\klinik\klinik\obj\Debug\klinik.vbproj.GenerateResource.cache
+C:\Users\yoga1\source\repos\klinik\klinik\obj\Debug\klinik.exe
+C:\Users\yoga1\source\repos\klinik\klinik\obj\Debug\klinik.xml
+C:\Users\yoga1\source\repos\klinik\klinik\obj\Debug\klinik.pdb
